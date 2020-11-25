@@ -3,9 +3,6 @@ title: Tauk
 description: "We'll be launching soon. Subscribe to be notified."
 url: 'https://thetauk.io'
 baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
-# disable_landing_page: true
 
 author:
   name: 'Tauk'
